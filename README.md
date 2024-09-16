@@ -8,3 +8,5 @@ Pet Service:
 - updatePet
 - deletePet
 - getRandomPets
+
+-test
